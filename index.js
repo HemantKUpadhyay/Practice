@@ -1,0 +1,1 @@
+console.log("Ye phla page hai bhiya js wala !");
